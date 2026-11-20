@@ -1,0 +1,11 @@
+{
+  "name": "JLPT N1 完形填空 · 完整版",
+  "short_name": "N1 完形填空",
+  "description": "JLPT N1 問題7 文章の文法，19 场真题完整版，离线可用。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4EFE4",
+  "theme_color": "#F4EFE4",
+  "lang": "zh-CN"
+}
